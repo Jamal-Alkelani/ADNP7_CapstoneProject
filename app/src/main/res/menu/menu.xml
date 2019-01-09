@@ -3,20 +3,20 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item android:id="@+id/mi_addPlace"
-        android:title="Add New Place"/>
+        android:title="@string/add_new_place"/>
 
     <item android:id="@+id/mi_settings"
-        android:title="Settings"/>
+        android:title="@string/settings"/>
 
     <item android:id="@+id/mi_about"
-        android:title="About"/>
+        android:title="@string/about"/>
 
     <item android:id="@+id/mi_notification"
         app:showAsAction="always"
-        android:title="Notification"
+        android:title="@string/notification"
         android:icon="@drawable/ic_notifications_black_24dp"/>
     <item android:id="@+id/mi_geofences"
         app:showAsAction="always"
-        android:title="My Geofences"
+        android:title="@string/my_geofences"
         android:icon="@drawable/ic_location_city_black_24dp"/>
 </menu>

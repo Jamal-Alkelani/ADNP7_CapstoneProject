@@ -45,5 +45,10 @@
     <string name="place_picker_exception_err_msg">PlacePicker Exception: %s</string>
     <string name="toolbar_title">My Places</string>
     <string name="item_deleted_toast_msg">Item Deleted</string>
+    <string name="add_new_place">Add New Place</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="notification">Notification</string>
+    <string name="my_geofences">My Geofences</string>
 
 </resources>
