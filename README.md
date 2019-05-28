@@ -3,6 +3,8 @@
 
 This project is developed as the final capastone project of Android Developer Nanodegree in order to graduate.
 
+the app keeps track of the driver and when ever the driver enters the user location (geofence) the user gets notified that the driver is close to his home. Also, the driver can add any appointments for bus leaving events.
+
 # Activities
 
 1.Home Screen (shows realtive information about upcoming trips and the ability to add your geofence location)<br>
