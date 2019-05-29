@@ -14,8 +14,8 @@ the app keeps track of the driver and when ever the driver enters the user locat
 
 # Screenshots
 
- <img src = "images/1.png"  > <img src = "images/2.png" >
-<img src = "images/3.png"  > <img src = "images/4.png"  >
+ <img src = "images/1.png"  width="400px" > <img src = "images/2.png" width="400px" >
+<img src = "images/3.png" width="400px" > <img src = "images/4.png"  width="400px" >
 
 * This project meets all the requirements needed to graduate from Android Developer Nanodegree.
 
